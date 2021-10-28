@@ -1,4 +1,4 @@
-# Testing dbus
+# Testing dbus communication
 
 Simple DBus server.
 
